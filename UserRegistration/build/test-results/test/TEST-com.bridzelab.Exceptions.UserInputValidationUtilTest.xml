@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridzelab.Exceptions.UserInputValidationUtilTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-09-15T18:42:54" hostname="DESKTOP-75GFKKA" time="0.068">
+  <properties/>
+  <testcase name="email_Should_returnFalse()" classname="com.bridzelab.Exceptions.UserInputValidationUtilTest" time="0.033"/>
+  <testcase name="firstName_Should_returnFalse()" classname="com.bridzelab.Exceptions.UserInputValidationUtilTest" time="0.003"/>
+  <testcase name="mobileNum_Should_returnFalse()" classname="com.bridzelab.Exceptions.UserInputValidationUtilTest" time="0.003"/>
+  <testcase name="password_Should_returnFalse()" classname="com.bridzelab.Exceptions.UserInputValidationUtilTest" time="0.003"/>
+  <testcase name="firstName_Should_returnTrue()" classname="com.bridzelab.Exceptions.UserInputValidationUtilTest" time="0.003"/>
+  <testcase name="mobileNum_Should_returnTrue()" classname="com.bridzelab.Exceptions.UserInputValidationUtilTest" time="0.002"/>
+  <testcase name="password_Should_returnTrue()" classname="com.bridzelab.Exceptions.UserInputValidationUtilTest" time="0.002"/>
+  <testcase name="email_Should_returnTrue()" classname="com.bridzelab.Exceptions.UserInputValidationUtilTest" time="0.002"/>
+  <testcase name="lastName_Should_returnTrue()" classname="com.bridzelab.Exceptions.UserInputValidationUtilTest" time="0.003"/>
+  <testcase name="lastName_Should_returnFalse()" classname="com.bridzelab.Exceptions.UserInputValidationUtilTest" time="0.003"/>
+  <system-out><![CDATA[Please Enter Valid Email
+vatipally@inda
+false
+Invalid Email Address
+Please Check and Enter
+Please Enter Valid First Name
+vattipally
+false
+Invalid First Name
+Please Check and Enter
+Please Enter Valid Mobile Number
+85067
+false
+Invalid Mobile Number
+Please Check and Enter
+Please Enter Valid Password
+sushmitha
+false
+Invalid Password
+Please Check and Enter
+Please Enter Valid First Name
+Vengalreddy
+true
+Please Enter Valid Mobile Number
+91 1234567890
+true
+Please Enter Valid Password
+HelloHi@12
+true
+Please Enter Valid Email
+xyz@bl.co.in
+true
+Please Enter Valid Last Name
+Sushmitha
+true
+Please Enter Valid Last Name
+thasvika
+false
+Invalid Last Name
+Please Check and Enter
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

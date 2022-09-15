@@ -9,7 +9,7 @@ public class EmailPattern {
 
         // 1.Creating an Array list to store the email Addresses which need to be validated
         ArrayList<String> emailAddressList = new ArrayList<>();
-        
+
         // 2.Adding the email addresses to list which need to be validated
         emailAddressList.add("abc@bridgelabz.co.in");
         emailAddressList.add("abc@yahoo.com");
