@@ -1,0 +1,44 @@
+Please Enter Valid Email
+vatipally@inda
+false
+Invalid Email Address
+Please Check and Enter
+Please Enter Valid First Name
+vattipally
+false
+Invalid First Name
+Please Check and Enter
+"Please Enter Valid Mobile Number
+85067
+false
+Invalid Mobile Number
+Please Check and Enter
+Please Enter Valid Password
+sushmitha
+false
+Invalid Password
+Please Check and Enter
+Please Enter Valid First Name
+Vengalreddy
+true
+"Please Enter Valid Mobile Number
+91 1234567890
+true
+Please Enter Valid Password
+HelloHi@12
+true
+	Please Enter Valid Email
+	xyz@bl.co.in
+	true
+
+Please Enter Valid Last Name
+
+Sushmitha
+
+true
+Please Enter Valid Last Name
+
+thasvika
+false
+Invalid Last Name
+Please Check and Enter
